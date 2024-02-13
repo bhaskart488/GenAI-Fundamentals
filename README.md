@@ -1,1 +1,1 @@
-# GenAI-Fundamentals
+# Word Raider - simple notebook game
